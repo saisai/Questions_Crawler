@@ -2,8 +2,8 @@
 google questions answer crawller
 
 # requirements
-Chrome browser installed  
-chromedriver installed  
+Firefox browser installed  
+geckodriver installed and in path like /usr/bin/  
 python3  
 
 # How To Install Python Packages
